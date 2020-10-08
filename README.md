@@ -3,7 +3,7 @@ __I am Yashi Srivastava__ An Independent and self-motivated
 beginner .
 ```
 1. Primary Domain :Majoring in the field of of Machine Learning & Artificial Intelligence
-2. Secondary Domain : a Full Stack Developer
+2. Secondary Domain : A Full Stack Developer
 ```
 
   🔭 I’m currently working on Projects :
