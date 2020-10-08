@@ -40,10 +40,16 @@ beginner .
 ```
 
 📫 How to reach me:
-```
+
 Portfolio Link : https://drive.google.com/drive/folders/1h1J8g35t58Abi2gZXvYVoneW7STUW0e5?usp=sharing
+
+
 Linkedin : https://www.linkedin.com/in/yashi-srivastava-16b85a1b2/
+
+
+
 Email id : yashi.srivastava131999@gmail.com
-```
+
+
 ⚡ Fun fact: Time to Time I need "Teach Yourself Code" kinda motivation.
 
