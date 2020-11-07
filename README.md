@@ -8,8 +8,9 @@ beginner .
 
   🔭 I’m currently working on Projects :
   ```
-  1. Sentimental Analysis
+  1. NLP
   2. Live Graphs
+  3.Web Aaps
   ```
   
   ✨I’have worked on Projects :
