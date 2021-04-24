@@ -42,7 +42,7 @@ beginner .
 
 📫 How to reach me:
 
-Portfolio Link : https://drive.google.com/file/d/1qjVqQ6jzKTEa5OuUxZ80yWakLVzCXm7L/view?usp=sharing
+Portfolio Link : https://drive.google.com/drive/folders/1h1J8g35t58Abi2gZXvYVoneW7STUW0e5?usp=sharing
 
 
 Linkedin : https://www.linkedin.com/in/yashi-srivastava-16b85a1b2/
