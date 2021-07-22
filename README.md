@@ -10,7 +10,7 @@ beginner .
   ```
   1. NLP
   2. Live Graphs
-  3.Web Aaps
+  3.Web Apps
   ```
   
   ✨I’have worked on Projects :
