@@ -1,56 +1,118 @@
-### Hi there 👋
-__I am Yashi Srivastava__ An Independent and self-motivated
-beginner .
-```
-1. Primary Domain :Majoring in the field of of Machine Learning & Artificial Intelligence
-2. Secondary Domain : A Full Stack Developer
-```
+# Hi there 👋 I'm Yashi Srivastava
 
-  🔭 I’m currently working on Projects :
-  ```
-  1. NLP
-  2. Live Graphs
-  3.Web Apps
-  ```
-  
-  ✨I’have worked on Projects :
-```
-  1. Analysis Of Effects Of News Sentiments On Stock Predictions` 
-  2.RMS Titanic Prediction
-  3.Tkinter Calculator
-  4.Machine Learning Algorithm Exploration
-  ```
-  
- 
-🌱 I’m currently learning :
-```
-  1. Machine Learning 
-  2.Artificial Intelligence
-```  
- 
-😄 I’m looking to collaborate on any Machine Learning or AI or IOT project.
+💻 **Software Engineer | Networking Platforms | Embedded Systems | AI x Networking**
 
-🤔 I’m looking for help with BIG DATA ANALYSIS.
+I’m a Software Engineer working on **large-scale networking platforms and distributed systems**, with a strong interest in **AI-driven networking, intelligent infrastructure, and next-generation IoT systems**.
 
-💬 Ask me about:
-```
-1.Machine Learning
-2.Data Science
-3.Natural Language Processing
-4.Computer Vision(OpenCV — Evolution in Computer Vision)
-```
+Currently building **low-power mesh networking platforms** and exploring how **machine learning can optimize network behavior, diagnostics, and performance at scale**.
 
-📫 How to reach me:
+---
 
-Portfolio Link : https://drive.google.com/drive/folders/1h1J8g35t58Abi2gZXvYVoneW7STUW0e5?usp=sharing
+## 🔭 What I'm Currently Working On
 
+- Embedded networking systems for **large-scale IoT mesh networks**
+- **Intelligent log analysis systems** for networking platforms
+- **AI-assisted network diagnostics and anomaly detection**
+- **Distributed networking infrastructure and observability tools**
 
-Linkedin : https://www.linkedin.com/in/yashi-srivastava-16b85a1b2/
+---
 
+## 🌐 Technical Focus
 
+### Networking & Distributed Systems
+- Low-power mesh networking
+- IPv6 networking for constrained devices
+- IoT networking architectures
+- Smart grid and utility networking
+- Network debugging and protocol analysis
 
-Email id : yashi.srivastava131999@gmail.com
+### AI for Networking
+- Network anomaly detection
+- Intelligent log analysis
+- Predictive network monitoring
+- Machine learning for network optimization
 
+---
 
-⚡ Fun fact: Time to Time I need "Teach Yourself Code" kinda motivation.
+## 🚀 Current Projects
 
+### AI-powered Network Log Analysis
+Building systems that analyze **large-scale network and system logs** using machine learning to detect anomalies, predict failures, and automate diagnostics.
+
+### Intelligent Monitoring Systems
+Exploring **real-time analytics for distributed networking systems** to improve observability, monitoring, and platform reliability.
+
+### Networking Visualization Tools
+Developing **live graph-based visualizations** for network traffic and infrastructure metrics.
+
+---
+
+## 🧠 Past Projects
+
+### News Sentiment Based Stock Prediction
+Used **Natural Language Processing (NLP)** to analyze financial news sentiment and study its impact on stock price movement.
+
+### RMS Titanic Prediction
+Implemented multiple **Machine Learning classification algorithms** to predict survival outcomes using historical dataset analysis.
+
+### Machine Learning Algorithm Exploration
+Experimented with supervised ML models including:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+
+### GUI Calculator
+Built a **desktop calculator using Python Tkinter** to explore GUI-based application development.
+
+---
+
+## 🌱 Currently Learning
+
+- AI for Networking
+- Distributed Systems
+- Network Observability
+- Large Scale Systems Design
+- Machine Learning for Infrastructure
+
+---
+
+## 🤝 Looking to Collaborate On
+
+Projects related to:
+
+- AI for Networking
+- Intelligent Network Monitoring
+- IoT & Smart Infrastructure
+- Network Automation
+- Distributed Systems
+
+---
+
+## 💬 Ask Me About
+
+- Networking Systems
+- Embedded Systems
+- IoT Platforms
+- Machine Learning Applications
+- Distributed Systems
+- Log Analysis & Observability
+
+---
+
+## 📫 How to Reach Me
+
+📧 **Email**  
+yashi.srivastava131999@gmail.com  
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/yysriva  
+
+📂 **Portfolio**  
+https://drive.google.com/drive/folders/1h1J8g35t58Abi2gZXvYVoneW7STUW0e5
+
+---
+
+## ⚡ Fun Fact
+
+I love exploring how **AI can make complex networks smarter, more autonomous, and self-healing.**
