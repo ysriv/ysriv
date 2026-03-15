@@ -108,8 +108,6 @@ yashi.srivastava131999@gmail.com
 🔗 **LinkedIn**  
 https://www.linkedin.com/in/yysriva  
 
-📂 **Portfolio**  
-https://drive.google.com/drive/folders/1h1J8g35t58Abi2gZXvYVoneW7STUW0e5
 
 ---
 
